@@ -1,5 +1,5 @@
-![image](https://github.com/EruelUrsua/todolist/assets/44109496/55acd9a1-17f4-489a-bdd5-9391b444defb)# todolistapp
-A Demo Flutter project.
+# To-Do List App
+A Demo Flutter project for Breezing with Flutter event.
 
 ### Demo source
 Website link: https://www.section.io/engineering-education/how-to-build-a-flutter-todo-app/
