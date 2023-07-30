@@ -1,16 +1,16 @@
 # todolistapp
+A Demo Flutter project.
 
-A new Flutter project.
+### Demo source
+Website link: https://www.section.io/engineering-education/how-to-build-a-flutter-todo-app/
 
-## Getting Started
+### Event slides
+*Introduction + Demo slides: https://www.canva.com/design/DAFp8XttKqk/IDOBgnpBknVDAQsAY7fNEA/view?utm_content=DAFp8XttKqk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
-This project is a starting point for a Flutter application.
+*What to do next slides: https://www.canva.com/design/DAFp8XttKqk/IDOBgnpBknVDAQsAY7fNEA/view?utm_content=DAFp8XttKqk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
